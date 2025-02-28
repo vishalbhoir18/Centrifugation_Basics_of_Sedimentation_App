@@ -16,3 +16,16 @@ To run this app locally, follow these steps:
    ```sh
    git clone https://github.com/your-username/sedimentation-app.git
    cd sedimentation-app
+
+pip install -r requirements.txt
+
+streamlit run app.py
+
+# Dependencies
+The app requires Python and the following libraries:
+streamlit
+numpy
+PIL (Pillow)
+
+License
+This project is licensed under CC BY-NC-SA 4.0.
