@@ -1,0 +1,8 @@
+
+---
+
+### `requirements.txt`
+```txt
+streamlit
+numpy
+pillow
